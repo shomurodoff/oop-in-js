@@ -4,7 +4,7 @@ Object-oriented Programming in JavaScript course by Mosh Hamedani
 
 <p align="center">
   <a href="https://www.udemy.com/course/javascript-object-oriented-programming" rel="noopener">
- <img src="logo.png" alt="Project logo"></a>
+ <img src="logo.png" width='500px' alt="Project logo"></a>
 </p>
 
 ## Course Plan 👇
