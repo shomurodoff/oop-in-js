@@ -18,3 +18,7 @@ Object-oriented Programming in JavaScript course by Mosh Hamedani
 
 <a href="https://www.udemy.com/certificate/UC-257ffdc3-16c7-471f-b219-79d83a4404e8" rel="noopener">
 <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-257ffdc3-16c7-471f-b219-79d83a4404e8.jpg" alt="Project logo"></a>
+
+### What is OOP ?
+
+-- Object-oriented programming is a programming <b>paradigm</b> centered around objects rather than functions.
